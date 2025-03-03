@@ -1,10 +1,17 @@
-import React from 'react'
-import { View } from 'react-native'
+// import { useAuth } from '@clerk/clerk-expo'
+import { Redirect } from "expo-router";
+import React, { useEffect, useState } from "react";
+import { Text, View } from "react-native";
+import { SafeAreaView } from "react-native-safe-area-context";
 
-const index = () => {
-  return (
-    <View>index</View>
-  )
-}
+const Home = () => {
+  const [isOnboarfing, setIsOnboarding] = useState(true);
 
-export default index
+  useEffect(() => {
+    const checkOnboarding = async () => {}
+  }, [])
+
+  return <Redirect href="/(root)/welcome" />
+};
+
+export default Home;
