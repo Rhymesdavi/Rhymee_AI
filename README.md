@@ -1,5 +1,5 @@
 
-## Rhymee_AI
+#### Rhymee_AI
 
 A React Native mobile application built with Expo, using TypeScript for type safety and faster development.
 
