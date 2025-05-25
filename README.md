@@ -1,5 +1,5 @@
 
-# Project Name
+**Rhymee_AI**
 
 A React Native mobile application built with Expo, using TypeScript for type safety and faster development.
 
@@ -27,7 +27,7 @@ To work on this project, you need to have the following tools installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/SimbaWANGU/Songa-Play.git
+git clone https://github.com/Rhymesdavi/Rhymee_AI.git
 cd project-name
 ```
 
