@@ -1,5 +1,8 @@
 
 ## Rhymee_AI
+![Artifonia AI (Community)](https://github.com/user-attachments/assets/d6169620-1256-4e02-8291-4df348fa5f42)
+
+
 
 A React Native mobile application built with Expo, using TypeScript for type safety and faster development.
 
